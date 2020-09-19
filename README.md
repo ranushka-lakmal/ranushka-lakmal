@@ -1,7 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Android
-- 👯 I’m looking to collaborate IOS
-- 🤔 I’m looking for help with GeeK
+- 👯 I’m looking to collaborate OBJECTIVE-C
 - 😄 Pronouns: GeekBash
  
 
