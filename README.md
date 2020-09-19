@@ -1,18 +1,13 @@
 ### Hi there 👋
 
-<!--
-**ranushka-lakmal/ranushka-lakmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Android
 - 👯 I’m looking to collaborate IOS
 - 🤔 I’m looking for help with GeeK
-- 💬 Ask me about ...
+- 💬 Ask me about Android
 - 📫 How to reach me: ...
 - 😄 Pronouns: GeekBash
-- ⚡ Fun fact: ...
--->
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+- ⚡ Fun fact: Nothing !
+
+<img src = "https://github-readme-stats.vercel.app/api?username=ranushka-lakmal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+ 
