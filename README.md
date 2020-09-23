@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👯 I’m looking to collaborate OBJECTIVE-C
+- 👯 I’m looking to collaborate OBJECTIVE-C,React native, React js, Flutter
 - 😄 Pronouns: GeekBash
  
 
