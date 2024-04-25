@@ -30,7 +30,6 @@ Below is a visual representation of the technologies I am proficient in:
 
 <img src="https://github-readme-stats.vercel.app/api?username=ranushka-lakmal&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img height="102px" width="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranushka-lakmal&text_color=FFFFFF&bg_color=000000&title_color=7fff00&langs_count=15&layout=compact&border_color=FFFFF"/>
 
 #### 👀 Profile Views Count
 
