@@ -4,8 +4,8 @@
 I'm GeekBash, a passionate developer with a love for crafting dynamic and impactful applications. I thrive on innovation and collaboration, aiming to push the boundaries of what's possible with code. Here's a bit about what I do and what I'm looking for:
 
 - 🎖️ I’m looking to collaborate on projects involving:
-  - **Android Development**
   - **Java & Spring Boot**
+  - **Android Development**
   - **PHP**
   - **Objective-C**
   - **React Native & React.js**
