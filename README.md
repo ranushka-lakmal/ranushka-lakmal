@@ -30,6 +30,12 @@ Below is a visual representation of the technologies I am proficient in:
 
 <img src="https://github-readme-stats.vercel.app/api?username=ranushka-lakmal&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ranulakmals" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="55" />
+  </a>
+</p>
+
 
 #### 👀 Profile Views Count
 
