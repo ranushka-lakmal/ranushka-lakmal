@@ -36,9 +36,10 @@ Below is a visual representation of the technologies I am proficient in:
 ![Profile Views](https://komarev.com/ghpvc/?username=ranushka-lakmal&style=flat-square&color=blueviolet&label=PROFILE+VIEWS)
 
 
-<p align="center">
+---
+<p align="left">
   <a href="https://www.buymeacoffee.com/ranulakmals" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy Me a Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="55" />
   </a>
 </p>
 
