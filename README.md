@@ -35,7 +35,6 @@ Below is a visual representation of the technologies I am proficient in:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ranushka-lakmal&style=flat-square&color=blueviolet&label=PROFILE+VIEWS)
 
-
 ---
 <p align="left">
   <a href="https://www.buymeacoffee.com/ranulakmals" target="_blank">
