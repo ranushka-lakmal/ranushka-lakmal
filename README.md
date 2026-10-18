@@ -33,7 +33,8 @@ Below is a visual representation of the technologies I am proficient in:
 
 #### 👀 Profile Views Count
 
-![Profile Views](https://komarev.com/ghpvc/?username=ranushka-lakmal&style=flat-square&color=blueviolet&refresh=20261018)
+[![Profile Views](https://hits.sh/github.com/ranushka-lakmal.svg?style=flat-square&label=Profile%20Views&color=8a2be2)](https://hits.sh/github.com/ranushka-lakmal/)
+
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/ranulakmals" target="_blank">
